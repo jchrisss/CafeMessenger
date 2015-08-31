@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sinch-android-rtc-3.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CafeMessenger/sinch-android-rtc-3.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

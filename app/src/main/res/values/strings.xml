@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CafeMessenger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="message_elipses">Message…</string>
+    <string name="title_activity_list_users">Contacts</string>
+    <string name="title_activity_messaging">Your Chat</string>
+    <string name="logout">Logout</string>
+</resources>
